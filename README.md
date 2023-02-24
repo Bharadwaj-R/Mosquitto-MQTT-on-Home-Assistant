@@ -44,7 +44,7 @@ Once you see the Mosquitto on the Devices and Services section, the installation
   
 ### Testing Mosquitto using ESP32  
 Using ESP32, we can publish to a given topic. Listening to the message can be done in the same way as mentioned before.  
-- Download the code from [here]().
+- Download the code from [here](https://github.com/Bharadwaj-R/Mosquitto-MQTT-on-Home-Assistant/blob/main/Assets/Code.ino).
 - Setup the Pub-Sub-Client library in Arduini IDE by following this [article]([https://www.arduino.cc/reference/en/libraries/pubsubclient/](http://www.steves-internet-guide.com/using-arduino-pubsub-mqtt-client/)).
 - Make necessary changes to the code (like IP address of device, HASS username and password, publish and subscribe topics, etc.)
 - WiFi for both ESP32 and the device running Home Assistant should be connected on the same WiFi network.
