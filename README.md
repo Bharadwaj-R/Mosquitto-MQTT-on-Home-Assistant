@@ -50,8 +50,8 @@ Using ESP32, we can publish to a given topic. Listening to the message can be do
 - WiFi for both ESP32 and the device running Home Assistant should be connected on the same WiFi network.
 - Upload the code to ESP32 using Arduino IDE and check the connection status in the Serial Monitor.   
 
-If everything is setup correctly, you should be able to listen to MQTT messages from the ESP in the Home Assistant dashboard, and vice versa.
-<br/>  
+If everything is setup correctly, you should be able to listen to MQTT messages from the ESP in the Home Assistant dashboard, and vice versa.  
 <br/>    
-***And that's it!***   
+
+### *And that's it!*  
 You've successfully installed the Mosquitto MQTT broker on Home Assistant. Now that you have setup the MQTT broker, do you want to make it more flashy, and create your own dashboard and run routines in a GUI? Well, changing the code is always possible, but do you want it to be more simplified? Then [*Node-RED*](https://nodered.org/) is the way to go. Follow my other repository - [Node-RED and MQTT]() to get started with Node-RED. 
