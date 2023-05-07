@@ -54,4 +54,4 @@ If everything is setup correctly, you should be able to listen to MQTT messages 
 <br/>  
 <br/>    
 ***And that's it!***   
-You've successfully installed the Mosquitto MQTT broker on Home Assistant. Now that you have setup the MQTT broker, do you want to make it more flashy, and create your own dashboard and run routines in a GUI? Well, changing the code is always possible, but do you want it to be more simplified? Then [*Node-RED*](https://nodered.org/) is the way to go. Follow my other repository on [Node-RED installation on Home Assistant](https://github.com/Bharadwaj-R/Node-RED-and-Home-Assistant) to get started. 
+You've successfully installed the Mosquitto MQTT broker on Home Assistant. Now that you have setup the MQTT broker, do you want to make it more flashy, and create your own dashboard and run routines in a GUI? Well, changing the code is always possible, but do you want it to be more simplified? Then [*Node-RED*](https://nodered.org/) is the way to go. Follow my other repository - [Node-RED and MQTT]() to get started with Node-RED. 
